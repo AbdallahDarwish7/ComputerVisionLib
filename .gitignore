@@ -1,0 +1,6 @@
+cmake-build-debug
+standard_test_images
+*.zip
+*.txt
+*.jpg
+*.idea
